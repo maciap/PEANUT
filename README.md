@@ -1,2 +1,4 @@
-# PEANUT-
+# PEANUT
 WORKLOAD AWARE MATERIALIZATION IN JUNCTION TREE INFERENCE 
+
+Contact author: martino.ciaperoni@aalto.fi 
