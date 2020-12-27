@@ -18,6 +18,6 @@ dataset:asia (Bayesian network - bif format) <br/>
 K: 1000 (budget) <br/>
 epsilon: 1.0 approximation level <br/>
 
-After the execution, the outputs folder contain the average cost savings for a set of generate queries. 
+After the execution, the outputs folder contain the average cost savings obtained with the exact optimal shortcut potentialsfor a set of generate queries. 
 
 
