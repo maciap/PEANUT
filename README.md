@@ -12,10 +12,10 @@ To use the code, first run 'python setup.py build_ext --inplace' from the folder
 ### Execution Example 
 
 **Run**:
-example.py
-with **arguments**: 
-dataset:asia (Bayesian network - bif format) 
-K: 1000 (budget) 
+example.py \\
+with **arguments**: \\
+dataset:asia (Bayesian network - bif format)  \\
+K: 1000 (budget) \\
 epsilon: 1.0 approximation level
 
 After the execution, the outputs folder contain the average cost savings for a set of generate queries. 
