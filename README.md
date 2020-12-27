@@ -12,8 +12,8 @@ To use the code, first run 'python setup.py build_ext --inplace' from the folder
 ### Execution Example 
 
 **Run**:
-example.py \\
-with **arguments**: \\
+example.py \breakline
+with **arguments**: \breakline
 dataset:asia (Bayesian network - bif format)  \\
 K: 1000 (budget) \\
 epsilon: 1.0 approximation level
